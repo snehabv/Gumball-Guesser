@@ -1,5 +1,4 @@
 from turtle import *
-from random import randint
 import random
 import turtle as tur
 tur.Screen().bgcolor("light blue")
@@ -103,6 +102,7 @@ def draw_block_row(gummies):
 # debug statement
 # print(num_blocks)
 
+
 # Draw the jar at a given speed
 speed(5)
 jar()
@@ -158,6 +158,4 @@ while user_number != secret_number:
     up_arrow()
   else:
     draw_check()
-
-
 
