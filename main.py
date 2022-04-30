@@ -1,4 +1,4 @@
-2from turtle import *
+from turtle import *
 import random
 import turtle as tur
 import time
